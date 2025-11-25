@@ -8,7 +8,7 @@ This artifact compares the top pre-trained models in three domains: natural lang
 
 ---
 
-## 📘 Description
+##  Description
 
 The artifact presents a decision matrix evaluating five well-known models:
 
@@ -23,7 +23,7 @@ Each is measured against publicly available benchmarks for size (parameters), ac
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 To help engineers and researchers:
 - Understand performance trade-offs
@@ -43,7 +43,7 @@ To help engineers and researchers:
 
 ---
 
-## 🛠️ Tools and Technologies Used
+##  Tools and Technologies Used
 
 - Hugging Face Model Hub
 - Markdown & Canva (for image)
@@ -53,13 +53,13 @@ To help engineers and researchers:
 
 ---
 
-## 💡 Value Proposition
+##  Value Proposition
 
 Offers a cross-domain visual decision framework for model selection.  Ideal for use in solution architecture, machine learning planning, and classroom demonstration.
 
 ---
 
-## 🌟 Unique Value
+##  Unique Value
 Unlike single-domain comparisons, this matrix includes NLP, vision, and table AI.  It clearly communicates trade-offs and supports domain-aware decision-making.
 
 ---
@@ -69,7 +69,7 @@ Unlike single-domain comparisons, this matrix includes NLP, vision, and table AI
 Choosing the correct model early minimizes deployment costs while increasing success.  This artifact displays effective AI comprehension for real-world applications.
 ---
 
-## 📚 References
+##  References
 
 - [GPT-2](https://openai.com/research/gpt-2)
 - [MobileNetV2](https://arxiv.org/abs/1801.04381)
@@ -80,6 +80,6 @@ Choosing the correct model early minimizes deployment costs while increasing suc
 
 ---
 
-## 🖼️ Visual Matrix
+##  Visual Matrix
 
 ![Model Decision Matrix](./decision-matrix.png)
