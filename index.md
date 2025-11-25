@@ -16,10 +16,11 @@ In the field of artificial intelligence, I introduce a unique combination of inq
 
 ---
 
-##  Featured Artifacts
+## 📂 Featured Artifacts
 
 | Title                        | Domain               | Description                                                                  | Link                                              |
 |-----------------------------|----------------------|------------------------------------------------------------------------------|---------------------------------------------------|
-| Pre-Trained Model Comparison| NLP / Vision / Tabular| A decision matrix comparing GPT, BERT, MobileNet, EfficientNet, and XGBoost | [View Artifact](artifacts/model-selection/README.md) |
+| Pre-Trained Model Comparison| NLP / Vision / Tabular| A decision matrix comparing GPT, BERT, MobileNet, EfficientNet, and XGBoost | [View Artifact](artifacts/README.md) |
 
+---
 
